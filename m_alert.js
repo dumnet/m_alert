@@ -9,7 +9,8 @@ var m =
 	{
 			var modal_body_css="",close_btn_css="";
 			
-			var modal_body_style = {
+			var modal_body_style = 
+			{
 				"font-family":"Arial",
 				"font-size":"13px",
 				"text-align":"center",
