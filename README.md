@@ -1,10 +1,11 @@
 # M Alert
 M Alert - A very lightweight modal (No additional javascript library or css required)
 
-Basic Usage
+<b>Basic Usage</b>
 
-<script src='m_alert.js'></script>
+\<script src="m_alert.js">\</script>
 
-<script>
-m_alert("This is a test message");
-</script>
+\<!-- Calling the autocomplete --> <br>
+\<script><br>
+    m_alert("This is a test message"); <br>
+\</script>
