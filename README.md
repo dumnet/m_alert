@@ -7,7 +7,7 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 
 \<!-- Create Modal --> <br>
 \<script><br>
-        m_alert("This is a test message"); <br>
+        m.alert("This is a test message"); <br>
 \</script>
 
 <b>Output</b> <br>
@@ -15,8 +15,8 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 <br>
 <b>Auto close modal after specific interval (by seconds)</b><br>
 \<script><br>
-        m_alert("This is a test message"); <br>
-        m_autoclose(3); <br>
+        m.alert("This is a test message"); <br>
+        m.autoclose(3); <br>
 \</script>
 <br><br>
 <b>Tested on the following browsers</b><br>
