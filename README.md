@@ -10,5 +10,5 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
         m_alert("This is a test message"); <br>
 \</script>
 
-<b>Output</b>
+<b>Output</b> <br>
 <img src="https://s30.postimg.org/ajd77yvep/m_modal.png" />
