@@ -13,5 +13,7 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 <b>Output</b> <br>
 <img src="https://s30.postimg.org/ajd77yvep/m_modal.png" />
 <br>
-<b>Auto close</b>
-
+<b>Auto close modal after few 3 seconds</b>
+\<script><br>
+        m_autoclose(3); <br>
+\</script>
