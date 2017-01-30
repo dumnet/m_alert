@@ -18,7 +18,7 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
         m_alert("This is a test message"); <br>
         m_autoclose(3); <br>
 \</script>
-<br>
+<br><br>
 <b>Tested on the following browsers</b><br><br>
 Chrome 4+<br>
 IE 10+<br>
