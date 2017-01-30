@@ -7,5 +7,8 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 
 \<!-- Create Modal --> <br>
 \<script><br>
-    m_alert("This is a test message"); <br>
+        m_alert("This is a test message"); <br>
 \</script>
+
+<b>Output</b>
+<img src="https://s30.postimg.org/ajd77yvep/m_modal.png" />
