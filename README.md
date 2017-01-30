@@ -15,5 +15,6 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 <br>
 <b>Auto close modal after specific interval (by seconds)</b><br>
 \<script><br>
+        m_alert("This is a test message"); <br>
         m_autoclose(3); <br>
 \</script>
