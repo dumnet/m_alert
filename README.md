@@ -5,7 +5,7 @@ M Alert - A very lightweight modal (No additional javascript library or css requ
 
 \<script src="m_alert.js">\</script>
 
-\<!-- Calling the autocomplete --> <br>
+\<!-- Create Modal --> <br>
 \<script><br>
     m_alert("This is a test message"); <br>
 \</script>
