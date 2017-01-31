@@ -33,8 +33,9 @@ var m =
 		{
 			"width":"10px",
 			"height":"10px",
-			"line-height":"1em",
-			"padding":"5px",
+			"line-height":"0.4em",
+			"padding":"15px",
+			"padding-left":"7px",
 			"font-size":"12px",
 			"background":"#fff",
 			"color":"red",
